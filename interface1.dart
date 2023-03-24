@@ -1,4 +1,4 @@
-**void main() {
+void main() {
 Animal l=new Lion();
 l.type();
 l.displayType1();
@@ -16,5 +16,4 @@ print("Loin");
 }
 void displayType1(){
 print("Hello");
-}
-بيساااااان
+}}
